@@ -1,8 +1,8 @@
 {
   "expo": {
-    "name": "Alumni",
-    "slug": "Alumni",
-    "scheme":"Alumni",
+    "name": "car",
+    "slug": "car",
+    "scheme":"car",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
